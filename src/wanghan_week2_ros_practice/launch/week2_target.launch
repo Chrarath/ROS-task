@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="week2_ros_practice" type="target_pub.py" name="target_pub" output="screen" />
+  <node pkg="week2_ros_practice" type="target_sub.py" name="target_sub" output="screen" />
+</launch>
