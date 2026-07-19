@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ROS编译缓存
+build/
+devel/
+install/
+*.bag
+*.log
+.vscode/
+*.swp
