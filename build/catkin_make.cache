@@ -1,0 +1,2 @@
+week2_ros_practice
+-DCATKIN_DEVEL_PREFIX=/home/wh/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wh/catkin_ws/install -G Unix Makefiles

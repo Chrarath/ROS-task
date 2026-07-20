@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>week2_ros_practice</name>
+  <version>0.0.1</version>
+  <description>第二周 ROS 目标点发布与订阅小实验。</description>
+
+  <maintainer email="student@example.com">student</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>rospy</build_depend>
+
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>rospy</exec_depend>
+
+  <export>
+  </export>
+</package>

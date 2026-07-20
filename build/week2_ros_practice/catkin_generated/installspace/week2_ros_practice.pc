@@ -1,0 +1,8 @@
+prefix=/home/wh/catkin_ws/install
+
+Name: week2_ros_practice
+Description: Description of week2_ros_practice
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
