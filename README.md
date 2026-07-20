@@ -5,11 +5,11 @@
 - 话题名从 /target_point 改成了 /uav/target_point。
 ## 三、任务完成截图
 -第一张截图：roslaunch 成功运行截图
-<img width="2355" height="1407" alt="923444dd51f3a73dfc6e445f049988d1" src="https://github.com/user-attachments/assets/445e2d72-1fb4-45c5-bfa7-b34b29138a35" />
+<img width="724" height="498" alt="923444dd51f3a73dfc6e445f049988d1" src="https://github.com/user-attachments/assets/445e2d72-1fb4-45c5-bfa7-b34b29138a35" />
 -第二张截图：rostopic list 看到 /target_point
 <img width="724" height="498" alt="f34c2b0960fb6bc43c1f0a088ca710ca" src="https://github.com/user-attachments/assets/1ee9c046-9b42-44b8-a7d0-8b3e97af26ea" />
 -第三张截图：rostopic echo /target_point 看到坐标
-<img width="2560" height="1539" alt="192ccac5d4283f71248abb09a1f7dfb2" src="https://github.com/user-attachments/assets/5659a305-e8e1-4761-8157-0252ec23c6e1" />
+<img width="724" height="498" alt="192ccac5d4283f71248abb09a1f7dfb2" src="https://github.com/user-attachments/assets/5659a305-e8e1-4761-8157-0252ec23c6e1" />
 ## 二、target_pub -> /target_point -> target_sub 完整解释
 - 各部分含义
 target_pub：发布节点（Publisher）
